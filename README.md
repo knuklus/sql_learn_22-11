@@ -70,4 +70,6 @@ psql (14.5) ubuntu 22.04
 | is_deal      |   boolean    |                                                          Оценка работа по часовая или проектная |
 | link_kanban  | varchar(45)  | Ссылка на внешний канбан (кайтен, трелло и тд), нужно для формирования ссылок на карточки задач |
 
+### Схема БД
+
 ![public](https://user-images.githubusercontent.com/50550746/205484770-4141d5b0-d82d-48cd-a5a1-8eb15e9fcc63.png)
